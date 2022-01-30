@@ -1,0 +1,16 @@
+{
+  "name": "mern-todo-with-login",
+  "version": "1.0.0",
+  "description": "todo app with login registeration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "client": "cd client && npm install && npm start cd .. ",
+    "server": "cd backend && npm install && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {}
+  
+}
